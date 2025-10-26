@@ -4,6 +4,6 @@ on browser
 2. click on 'Download Zip'
 <br><br>
 in GitHub app <br>
-1. click on code 
-2. click on pdf on top
-3. view or download what you want
+1. click on code <br>
+2. click on pdf on top<br>
+3. view or download what you want<br>
